@@ -1,0 +1,14 @@
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp2.1\BowlingKata.csprojAssemblyReference.cache
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp2.1\BowlingKata.csproj.CoreCompileInputs.cache
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp2.1\BowlingKata.AssemblyInfoInputs.cache
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp2.1\BowlingKata.AssemblyInfo.cs
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp2.1\BowlingKata.deps.json
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp2.1\BowlingKata.runtimeconfig.json
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp2.1\BowlingKata.runtimeconfig.dev.json
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp2.1\BowlingKata.dll
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\bin\Debug\netcoreapp2.1\BowlingKata.pdb
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp2.1\BowlingKata.dll
+C:\Users\dough\Source\repos\BowlingKata\BowlingKata\obj\Debug\netcoreapp2.1\BowlingKata.pdb
